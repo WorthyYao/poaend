@@ -1,0 +1,30 @@
+题 目：A Robust Multivariate EWMA Control Chart for Detecting Sparse Mean Shifts
+
+报告人：华东师范大学 濮晓龙 教授
+
+时 间：2016年7月2日 14:00—15:30
+
+地 点：数学楼629
+
+Abstract: In multivariate statistical process control (MSPC) applications,
+process mean shifts sometimes occur in only a few components. Most ofexisting
+charts assumed that the multivariate quality characteristics are normally
+distributed. Among them, the multivariate LASSO control chartproposed by Zou
+and Qiu (2009) has the best overall performance. In this paper, we extend the
+classical multivariate LASSO control chart to a robust version thatis
+distribution-free under the family of elliptical direction distributions,
+indicating that the in-control run length distribution is the same for any
+continuous distribution in this family and the control limit can be acquired
+from the multivariate standard normal distribution. Simulation results show
+that the proposed method is very efficient in detecting various sparse shifts
+underheavy-tailed and skewed multivariate distributions.
+
+Key Words: Affine Invariant, Distribution Free, Least Absolute Shrinkage and
+Selection Operator, Multivariate Statistical Process Control, Spatial Sign
+Test.
+
+报告人简介：濮晓龙，博士、教授、博士生导师，现任华东师范大学经济与管理学部副主任、华东师范大学统计学院院长，兼任中国现场统计研究会副理事长、全国工业统计学教学研究会副会长、《数理统计与管理》杂志副主编、中国质量协会常务理事、全国统计方法应用标准化技术委员会委员、中国质量教育委员会委员、中国六西格玛推进工作委员会委员、上海市质量技术应用统计学会副理事长等。现主持一项国家自然科学基金面上项目、一项上海市委托科研项目以及一项横向课题。发表
+论文 30 多篇、出版专著 1 本、参与编写出版教材 8 本、主持制定国家标准一项。先后荣获 2006 年度“军队科技进步一等奖” 2011
+年度“军队科技进步二等奖”。 并获评 2013 年度上海市宝钢奖、 2008 年度华东师范大学师德标兵、 2007 年度上海市优秀成果一等奖、 2013
+年度上海市优秀教学成果二等奖等荣誉。
+

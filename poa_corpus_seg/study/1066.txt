@@ -1,0 +1,6 @@
+                * * [ _ 尚七网 _ ] ( http : / / www . edu777 . com / ) 讯 * *     据 校园 记者 报道     2016 年 材料 研究 学会 （ Materials   Research   Society 春季 会议 （ 2016   MRS   Spring   Meeting   & amp ;   Exhibit ） 在 美国 亚利桑那州 凤凰 城 举行 ， 这是 国际 上 材料科学 领域 最 重要 的 国际 会议 之一 ， 本次 大会 共有 63 个 专题 研讨会 ， 吸引 了 15000 多名 来自 全世界 多个 国家 的 材料 相关 专业 领域 的 专家 、 学者 和 学生 代表 ， 共同 探讨 先进 材料科学 的 进展 和 未来 方向 。 上海大学 材料科学 与 工程学院 王文贞 同学 在 此次 大会 上 获得 了 基于 钙钛矿 的 光伏 和 光电 器件 分会场 （ Symposium   EP3 : Perovskite - Based   Photovoltaics   and   Optoelectronic   Devices ） 的 最佳 墙报 奖 （ Best   Poster   Award ） 。     
+ 　 　 王文贞 的 墙报 题目 为 “ Growth   of   the   CH3NH3PbCl3   Films   and   Its   Application   in   Visible 
+ Blind   Ultraviolet 
+ Photodetector ” 。 她 在 王林军 教授 和 徐闰 副教授 的 指导 下 ， 采用 混合 连续 沉积 法 生长 了 致密 的 且 结晶度 良好 的 CH3NH3PbCl3 薄膜 ， 并 首次 制备 出共面 叉 指型 CH3NH3PbCl3 薄膜 可见光 盲 紫外 探测器 。     
+                 该 探测器 对 紫外光 非常 敏感 ， 在 光强 为 5   mW / cm2 的 360   nm 紫外光 照射 下 ， 外加 电压 为 4.0 V 时 ， 响应 率为 7.56   A / W ， 紫外光 - 
+ 可见光 抑制 比 （ R360nm / R500nm ） 高 达 两个 数量级 ， 且 响应速度 很快 ， 上升时间 为 170 μ s ， 下降时间 为 220 μ s 。 该 研究成果 在 会议 期间 引起 了 众多 同行 的 广泛 关注 和 热烈 反响 ， 也 因此 被 组委会 评选 为 最佳 墙报 。

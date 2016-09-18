@@ -1,0 +1,29 @@
+题   目 ： A   Robust   Multivariate   EWMA   Control   Chart   for   Detecting   Sparse   Mean   Shifts 
+ 
+ 报告 人 ： 华东师范大学   濮晓龙   教授 
+ 
+ 时   间 ： 2016 年 7 月 2 日   14 : 00 — 15 : 30 
+ 
+ 地   点 ： 数学 楼 629 
+ 
+ Abstract :   In   multivariate   statistical   process   control   ( MSPC )   applications , 
+ process   mean   shifts   sometimes   occur   in   only   a   few   components .   Most   ofexisting 
+ charts   assumed   that   the   multivariate   quality   characteristics   are   normally 
+ distributed .   Among   them ,   the   multivariate   LASSO   control   chartproposed   by   Zou 
+ and   Qiu   ( 2009 )   has   the   best   overall   performance .   In   this   paper ,   we   extend   the 
+ classical   multivariate   LASSO   control   chart   to   a   robust   version   thatis 
+ distribution - free   under   the   family   of   elliptical   direction   distributions , 
+ indicating   that   the   in - control   run   length   distribution   is   the   same   for   any 
+ continuous   distribution   in   this   family   and   the   control   limit   can   be   acquired 
+ from   the   multivariate   standard   normal   distribution .   Simulation   results   show 
+ that   the   proposed   method   is   very   efficient   in   detecting   various   sparse   shifts 
+ underheavy - tailed   and   skewed   multivariate   distributions . 
+ 
+ Key   Words :   Affine   Invariant ,   Distribution   Free ,   Least   Absolute   Shrinkage   and 
+ Selection   Operator ,   Multivariate   Statistical   Process   Control ,   Spatial   Sign 
+ Test . 
+ 
+ 报告 人 简介 ： 濮晓龙 ， 博士 、 教授 、 博士生 导师 ， 现任 华东师范大学 经济 与 管理学 部副 主任 、 华东师范大学 统计 学院 院长 ， 兼任 中国 现场 统计 研究会 副理事长 、 全国 工业 统计学 教学 研究会 副会长 、 《 数理统计 与 管理 》 杂志 副主编 、 中国 质量 协会 常务理事 、 全国 统计 方法 应用 标准化 技术 委员会 委员 、 中国 质量 教育 委员会 委员 、 中国 六西格玛 推进 工作 委员会 委员 、 上海市 质量 技术 应用 统计学 会 副理事长 等 。 现 主持 一项 国家自然科学基金 面上 项目 、 一项 上海市 委托 科研项目 以及 一项 横向 课题 。 发表 
+ 论文   30   多篇 、 出版 专著   1   本 、 参与 编写 出版 教材   8   本 、 主持 制定 国家标准 一项 。 先后 荣获   2006   年度 “ 军队 科技进步 一等奖 ”   2011 
+ 年度 “ 军队 科技进步 二等奖 ” 。   并 获评   2013   年度 上海市 宝钢 奖 、   2008   年度 华东师范大学 师德 标兵 、   2007   年度 上海市 优秀成果 一等奖 、   2013 
+ 年度 上海市 优秀 教学 成果 二等奖 等 荣誉 。

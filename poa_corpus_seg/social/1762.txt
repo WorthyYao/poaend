@@ -1,0 +1,180 @@
+200   |   邓刘福   |   男   |   1979 / 2 / 1   |   上海交通大学   |   上海   |   [ 美国 ] 芝加哥大学   [ 美国 ] The   University   of 
+ Chicago     
+ 201   |   刘 军力   |   男   |   1981 / 5 / 20   |   上海交通大学   |   上海   |   [ 美国 ] 哈佛大学医学院   [ 美国 ] Harvard   Medical 
+ Scholl     
+ 202   |   邹   强   |   男   |   1984 / 10 / 3   |   上海交通大学   |   上海   |   [ 美国 ] MD 安德森 癌症 中心   [ 美国 ] MD   Anderson   Cancer 
+ Center     
+ 203   |   吴秋伟   |   男   |   1977 / 9 / 26   |   上海交通大学   |   上海   |   [ 丹麦 ] 丹麦 科技 大学   [ 丹麦 ] Technical   University 
+ of   Denmark     
+ 204   |   蔡伟伟   |   男   |   1985 / 10 / 3   |   上海交通大学   |   上海   |   [ 英国 ] 剑桥大学   [ 英国 ] University   of   Cambridge     
+ 205   |   杨选明   |   男   |   1980 / 11 / 24   |   上海交通大学   |   上海   |   [ 美国 ] 芝加哥大学 病理学 系   [ 美国 ] The   University   of 
+ Chicago ，   Department   of   Pathology     
+ 206   |   张   冰   |   男   |   1977 / 10 / 26   |   上海交通大学   |   上海   |   [ 美国 ] 哈佛大学医学院   [ 美国 ] Harvard   Medical 
+ School     
+ 207   |   唐玉杰   |   男   |   1981 / 10 / 28   |   上海交通大学   |   上海   |   [ 美国 ] 斯坦福大学 医学院   [ 美国 ] Stanford 
+ University   School   of   Medicine     
+ 208   |   薛加民   |   男   |   1984 / 2 / 24   |   上海 科技 大学   |   上海   |   [ 美国 ] 德克萨斯 大学 奥斯丁 分校   [ 美国 ] University   of 
+ Texas   at   Austin     
+ 209   |   章跃标   |   男   |   1984 / 7 / 25   |   上海 科技 大学   |   上海   |   [ 美国 ] 加州大学 伯克利分校   [ 美国 ] UC   Berkeley     
+ 210   |   陆珺霞   |   女   |   1977 / 6 / 1   |   上海 科技 大学   |   上海   |   [ 美国 ] 美国 国立 卫生 研究院   [ 美国 ] National   Institute 
+ of   Health     
+ 211   |   朱焕乎   |   男   |   1980 / 5 / 18   |   上海 科技 大学   |   上海   |   [ 美国 ] 霍华德 休斯 医学 研究所 / 科罗拉多 大学 博尔德 分校 
+ [ 美国 ] Howard   Hughes   Medical   Institute / University   of   Colorado   at   Boulder     
+ 212   |   季泉江   |   男   |   1986 / 7 / 12   |   上海 科技 大学   |   上海   |   [ 美国 ] 加州大学 伯克利分校   [ 美国 ] University   of 
+ California ，   Berkeley     
+ 213   |   付立群   |   女   |   1982 / 7 / 8   |   上海 科技 大学   |   上海   |   [ 瑞典 ] 瑞典 皇家 理工学院   [ 瑞典 ] KTH   Royal   Institute 
+ of   Technology     
+ 214   |   袁晓军   |   男   |   1977 / 11 / 5   |   上海 科技 大学   |   上海   |   [ 中国香港 ] 香港中文大学   [ 中国香港 ] The   Chinese 
+ University   of   Hong   Kong     
+ 215   |   高盛 华   |   男   |   1983 / 6 / 10   |   上海 科技 大学   |   上海   |   [ 新加坡 ] 美国伊利诺伊大学 香槟 分校 新加坡 高等 研究院   [ 新加坡 ] UIUC 
+ Advanced   Digital   Sciences   Center ，   Singapore     
+ 216   |   郑友怡   |   男   |   1983 / 11 / 30   |   上海 科技 大学   |   上海   |   [ 美国 ] 耶鲁大学   [ 美国 ] Yale   University     
+ 217   |   刘   一   |   男   |   1978 / 12 / 1   |   上海理工大学   |   上海   |   [ 法国 ] 法国 国家 科学研究 中心   [ 法国 ] French   Nation 
+ Center   for   Scientific   Research     
+ 218   |   王   胤   |   男   |   1979 / 6 / 7   |   同济大学   |   上海   |   [ 美国 ] 脸谱 公司   [ 美国 ] Facebook     
+ 219   |   严   钢   |   男   |   1983 / 1 / 12   |   同济大学   |   上海   |   [ 美国 ] 美国 东北大学 复杂 网络 研究 中心   [ 美国 ] Center   for 
+ Complex   Network   Research ，   Northeastern   University     
+ 220   |   费泓涵   |   男   |   1985 / 9 / 7   |   同济大学   |   上海   |   [ 美国 ] 加州大学 圣地亚哥 分校   [ 美国 ] University   of 
+ California ，   San   Diego     
+ 221   |   刘玮书   |   男   |   1980 / 8 / 24   |   同济大学   |   上海   |   [ 美国 ] Sheetak   公司   [ 美国 ] Sheetak   Inc     
+ 222   |   杨晓伟   |   男   |   1982 / 4 / 5   |   同济大学   |   上海   |   [ 澳大利亚 ] 莫 纳什 大学   [ 澳大利亚 ] Monash   University     
+ 223   |   罗   喆   |   男   |   1982 / 5 / 6   |   同济大学   |   上海   |   [ 美国 ] 阿克 伦 大学   [ 美国 ] University   of   Akron     
+ 224   |   曹   楠   |   男   |   1981 / 5 / 14   |   同济大学   |   上海   |   [ 美国 ] IBM   沃森 研究院   [ 美国 ] IBM   T .   J .   Watson 
+ Research   Center     
+ 225   |   张 丰收   |   男   |   1982 / 8 / 19   |   同济大学   |   上海   |   [ 美国 ] 依 泰斯 卡 国际 咨询 公司   [ 美国 ] Itasca 
+ International   Inc     
+ 226   |   左   为   |   男   |   1984 / 1 / 25   |   同济大学   |   上海   |   [ 新加坡 ] 新加坡 科技局 基因组 研究院   [ 新加坡 ] Genome 
+ Institute   of   Singapore ，   A * STAR     
+ 227   |   奚啸翔   |   男   |   1984 / 12 / 30   |   中国工程物理研究院 上海 激光 等离子体 研究所   |   上海   |   [ 美国   ] 宾夕法尼亚州 立 大学   [ 美国 
+ ] Pennsylvania   State   University     
+ 228   |   张   亮   |   男   |   1979 / 9 / 10   |   中国科学院 上海 生命科学 研究院   |   上海   |   [ 美国 ] 洛克菲勒 大学   [ 美国 ] the 
+ Rockefeller   University     
+ 229   |   吕   伟   |   男   |   1981 / 9 / 12   |   中国科学院 上海 生命科学 研究院   |   上海   |   [ 美国 ] 国立 卫生 研究院   [ 美国 ] National 
+ Institutes   of   Health     
+ 230   |   吉亮 亮   |   男   |   1984 / 10 / 10   |   中国科学院 上海 光学 精密机械 研究所   |   上海   |   [ 美国 ] 俄亥俄 州立大学   [ 美国 ] The   Ohio 
+ State   University     
+ 231   |   畅磊福   |   男   |   1984 / 4 / 23   |   中国科学院 上海 生命科学 研究院   |   上海   |   [ 英国 ] MRC 分子生物学 实验室   [ 英国 ] MRC 
+ Laboratory   of   Molecular   Biology     
+ 232   |   孟 飞龙   |   男   |   1983 / 11 / 29   |   中国科学院 上海 生命科学 研究院   |   上海   |   [ 美国 ] 哈佛大学医学院 / 波士顿 儿童医院 
+ [ 美国 ] Harvard   Medical   School / Boston   Children ' ' s   Hospital     
+ 233   |   高   栋   |   男   |   1981 / 6 / 24   |   中国科学院 上海 生命科学 研究院   |   上海   |   [ 美国 ] 斯隆 - 凯特林 癌症 研究所   [ 美国 ] Memorial 
+ Sloan   Kettering   Cancer   Center     
+ 234   |   朱   棣   |   男   |   1983 / 10 / 13   |   中国科学院 上海 生命科学 研究院   |   上海   |   [ 美国 ] 美国哈佛大学医学院   [ 美国 ] Harvard 
+ Medical   School     
+ 235   |   王   凯   |   男   |   1982 / 5 / 14   |   中国科学院 上海 生命科学 研究院   |   上海   |   [ 美国 ] 霍华德 休斯 医学 研究所   [ 美国 ] Howard 
+ Hughes   Medical   Institute     
+ 236   |   徐 华泰   |   男   |   1975 / 11 / 2   |   中国科学院 上海 生命科学 研究院   |   上海   |   [ 美国 ] 纪念 斯隆 凯特 琳 癌症 中心   [ 美国 ] Memorial 
+ Sloan   Kettering   Cancer   Center     
+ 237   |   丁秋蓉   |   女   |   1981 / 11 / 12   |   中国科学院 上海 生命科学 研究院   |   上海   |   [ 美国 ] 哈佛大学   [ 美国 ] Harvard 
+ University     
+ 238   |   雷明光   |   男   |   1977 / 4 / 19   |   中国科学院 上海 生命科学 研究院   |   上海   |   [ 美国 ] 普渡大学   [ 美国 ] Purdue 
+ University     
+ 239   |   卫   青   |   男   |   1980 / 9 / 16   |   中国科学院 上海 生命科学 研究院   |   上海   |   [ 美国 ] 梅奥 医学中心   [ 美国 ] Mayo 
+ Clinic ， Rochester   MN     
+ 240   |   张惠明   |   男   |   1980 / 3 / 27   |   中国科学院 上海 生命科学 研究院   |   上海   |   [ 美国 ] 普度 大学   [ 美国 ] Purdue 
+ University     
+ 241   |   张   余   |   男   |   1982 / 9 / 23   |   中国科学院 上海 生命科学 研究院   |   上海   |   [ 美国 ] 新泽西州 立罗 格斯 大学   [ 美国 ] Rutgers ， 
+ The   state   University   of   New   Jersey     
+ 242   |   施世良   |   男   |   1981 / 10 / 2   |   中国科学院 上海 药物 研究所   |   上海   |   [ 美国 ] 麻省理工学院   [ 美国 ] Massachusetts 
+ Institute   of   Technology     
+ 243   |   龚   昱   |   男   |   1982 / 11 / 22   |   中国科学院 上海 应用 物理 研究所   |   上海   |   [ 美国 ] 弗吉尼亚 大学   [ 美国 ] University 
+ of   Virginia     
+ 244   |   房 鹏飞   |   男   |   1983 / 12 / 22   |   中国科学院 上海 有机化学 研究所   |   上海   |   [ 美国 ] Scripps 研究所   [ 美国 ] The 
+ Scripps   Research   Institute     
+ 245   |   胡军浩   |   男   |   1979 / 11 / 29   |   中国科学院 上海 有机化学 研究所   |   上海   |   [ 德国 ] 德国 癌症 研究 中心   [ 德国 ] German 
+ Cancer   Research   Center     
+ 246   |   陶   立   |   男   |   1982 / 4 / 7   |   东南大学   |   江苏   |   [ 美国 ] 德克萨斯 大学 奥斯汀 分校 微电子 研究 中心   [ 美国 ] The 
+ University   of   Texas   at   Austin     
+ 247   |   陈   震   |   男   |   1981 / 2 / 14   |   东南大学   |   江苏   |   [ 美国 ] 斯坦福大学   [ 美国 ] Stanford   University     
+ 248   |   吉远辉   |   女   |   1982 / 4 / 8   |   东南大学   |   江苏   |   [ 德国 ] 多特蒙德 工业 大学   [ 德国 ] Technische   Universit ? t 
+ Dortmund     
+ 249   |   何   磊   |   男   |   1982 / 1 / 25   |   东南大学   |   江苏   |   [ 澳大利亚 ] 莫 纳什 大学   [ 澳大利亚 ] Monash   University     
+ 250   |   蒋之浩   |   男   |   1986 / 1 / 22   |   东南大学   |   江苏   |   [ 美国 ] 宾夕法尼亚州 立 大学   [ 美国 ] Pennsylvania   State 
+ University     
+ 251   |   赵涤燹   |   男   |   1983 / 9 / 27   |   东南大学   |   江苏   |   [ 比利时 ] 鲁汶 大学 （ 荷语 ）   [ 比利时 ] KU   Leuven     
+ 252   |   马志刚   |   男   |   1982 / 7 / 26   |   东南大学   |   江苏   |   [ 美国 ] 卡耐基 梅隆 大学   [ 美国 ] Carnegie   Mellon 
+ University     
+ 253   |   李海涛   |   男   |   1979 / 11 / 5   |   江南 大学   |   江苏   |   [ 美国 ] 明尼苏达 大学   [ 美国 ] University   of   Minnesota     
+ 254   |   肖   浦   |   男   |   1981 / 8 / 30   |   江苏 大学   |   江苏   |   [ 澳大利亚 ] 新南威尔士 大学   [ 澳大利亚 ] University   of   New 
+ South   Wales     
+ 255   |   Oleg   GAIDAI   |   男   |   1975 / 7 / 31   |   江苏 科技 大学   |   江苏   |   [ 挪威 ] 挪威 海洋工程 研究 中心   [ 挪威 ] MARINTEK     
+ 256   |   赵   丹   |   男   |   1980 / 5 / 6   |   江苏 科技 大学   |   江苏   |   [ 新加坡 ] 南洋 理工大学   机械 与 航天 工程   [ 新加坡 ] Nanyang 
+ Technological   University     
+ 257   |   刘 荣华   |   男   |   1983 / 9 / 16   |   南京大学   |   江苏   |   [ 美国 ] 埃默里 大学   [ 美国 ] Emory   University     
+ 258   |   谢臻 达   |   男   |   1983 / 2 / 10   |   南京大学   |   江苏   |   [ 美国 ] 加利福尼亚大学洛杉矶分校   [ 美国 ] University   of 
+ California ，   Los   Angeles     
+ 259   |   龚 晨光   |   男   |   1982 / 10 / 14   |   南京大学   |   江苏   |   [ 美国 ] 诺华 制药 生物医学 研究所   [ 美国 ] Novartis 
+ Institute   for   Biomedical   Research     
+ 260   |   籍晓云   |   女   |   1982 / 12 / 4   |   南京大学   |   江苏   |   [ 美国 ] 耶鲁大学   [ 美国 ] Yale   University     
+ 261   |   李   伟   |   男   |   1982 / 1 / 18   |   南京大学   |   江苏   |   [ 美国 ] 特拉华 大学   [ 美国 ] University   of   Delaware     
+ 262   |   孔德圣   |   男   |   1985 / 11 / 9   |   南京大学   |   江苏   |   [ 美国 ] 斯坦福大学 化学 工程系   [ 美国 ] Stanford 
+ University ，   Chemical   Engineering     
+ 263   |   黎 松林   |   男   |   1982 / 5 / 18   |   南京大学   |   江苏   |   [ 法国 ] 斯特拉斯堡 大学   [ 法国 ] Unveristy   of 
+ Strasbourg     
+ 264   |   Jorg   GOTTE   |   男   |   1976 / 11 / 20   |   南京大学   |   江苏   |   [ 德国 ] 马克思 普朗克 研究所 复杂 物理 系统 中心   [ 德国 ] Max 
+ Planck   Institute   for   the   Physics   of   Complex   Systems     
+ 265   |   许封 元   |   男   |   1983 / 9 / 7   |   南京大学   |   江苏   |   [ 美国 ] 美国 NEC 普林斯顿 研究院   [ 美国 ] NEC   Labs   America ， 
+ Princeton     
+ 266   |   闫   超   |   男   |   1983 / 9 / 24   |   南京大学   |   江苏   |   [ 美国 ] 科罗拉多 大学 癌症 研究 中心   [ 美国 ] University   of 
+ Colorado   Cancer   Center     
+ 267   |   汪 曙光   |   男   |   1978 / 6 / 15   |   南京大学   |   江苏   |   [ 美国 ] 哥伦比亚大学   [ 美国 ] Columbia   University     
+ 268   |   秦   琦   |   男   |   1979 / 8 / 17   |   南京大学   |   江苏   |   [ 美国 ] 麻省理工学院   [ 美国 ] Massachusset   Institute 
+ of   Technology     
+ 269   |   冯   超   |   男   |   1982 / 12 / 3   |   南京 工业 大学   |   江苏   |   [ 新加坡 ] 南洋 理工大学   [ 新加坡 ] Nanyang 
+ Technological   University     
+ 270   |   孙世鹏   |   男   |   1985 / 6 / 11   |   南京 工业 大学   |   江苏   |   [ 新加坡 ] 新加坡国立大学   [ 新加坡 ] National 
+ University   of   Singapore     
+ 271   |   周   嵬   |   男   |   1982 / 1 / 20   |   南京 工业 大学   |   江苏   |   [ 澳大利亚 ] 昆士兰 大学   [ 澳大利亚 ] University   of 
+ Queensland     
+ 272   |   于海东   |   男   |   1979 / 1 / 3   |   南京 工业 大学   |   江苏   |   [ 新加坡 ] 新加坡 科技 研究局 材料 与 工程 研究院   [ 新加坡 ] Institute 
+ of   Materials   Research   and   Engineering     
+ 273   |   朱纪欣   |   男   |   1980 / 8 / 19   |   南京 工业 大学   |   江苏   |   [ 德国 ] 马克斯 · 普朗克 学会 ， 胶体 和 界面 所   [ 德国 ] Max   Planck 
+ Institute   of   Colloids   and   Interfaces     
+ 274   |   李   鹏   |   男   |   1983 / 4 / 1   |   南京 工业 大学   |   江苏   |   [ 新加坡 ] 南洋 理工大学   [ 新加坡 ] Nanyang 
+ Technological   University     
+ 275   |   张   强   |   男   |   1985 / 9 / 7   |   南京 理工大学   |   江苏   |   [ 英国 ] 华威 大学 化学系   [ 英国 ] Detartment   of 
+ Chemsitry   University   of   Warwick     
+ 276   |   金明杰   |   男   |   1981 / 11 / 25   |   南京 理工大学   |   江苏   |   [ 美国 ] Edeniq   公司   [ 美国 ] Edeniq ， Inc .     
+ 277   |   关雪莹   |   女   |   1980 / 1 / 9   |   南京农业大学   |   江苏   |   [ 美国 ] 德克萨斯 大学 奥斯汀 分校   [ 美国 ] University   of 
+ Texas   at   Austin     
+ 278   |   汪   鹏   |   男   |   1984 / 9 / 9   |   南京农业大学   |   江苏   |   [ 澳大利亚 ] 昆士兰 大学   [ 澳大利亚 ] The   University   of 
+ Queensland     
+ 279   |   汪艳秋   |   女   |   1977 / 8 / 29   |   南京师范大学   |   江苏   |   [ 美国 ] 俄克拉荷马州 立 大学   [ 美国 ] Oklahoma   State 
+ University     
+ 280   |   邓   成   |   男   |   1982 / 7 / 13   |   南京师范大学   |   江苏   |   [ 美国 ] 斯坦福大学   [ 美国 ] Stanford   university     
+ 281   |   刘   毅   |   男   |   1981 / 10 / 23   |   南京 信息工程 大学   |   江苏   |   [ 澳大利亚 ] 新南威尔士 大学   [ 澳大利亚 ] University   of 
+ New   South   Wales     
+ 282   |   章炎麟   |   男   |   1983 / 7 / 27   |   南京 信息工程 大学   |   江苏   |   [ 日本 ] 北海道 大学   [ 日本 ] Hokkaido   University     
+ 283   |   胡建林   |   男   |   1981 / 8 / 15   |   南京 信息工程 大学   |   江苏   |   [ 美国 ] 加州大学 戴维斯 分校   [ 美国 ] University   of 
+ California   Davis     
+ 284   |   陈景润   |   男   |   1982 / 11 / 2   |   苏州大学   |   江苏   |   [ 美国 ] 加州大学 圣 芭芭拉 分校   [ 美国 ] University   of 
+ California ，   Santa   Barbara     
+ 285   |   徐   信   |   男   |   1981 / 1 / 12   |   苏州大学   |   江苏   |   [ 德国 ] 明斯特 大学   [ 德国 ] University   of   Muenster     
+ 286   |   赵   宇   |   男   |   1980 / 5 / 23   |   苏州大学   |   江苏   |   [ 美国 ] 德克萨斯 大学 奥斯丁 分校   [ 美国 ] The   University   of 
+ Texas   at   Austin     
+ 287   |   史海斌   |   男   |   1978 / 3 / 14   |   苏州大学   |   江苏   |   [ 美国 ] 美国斯坦福大学   [ 美国 ] Stanford   University     
+ 288   |   李 瑞宾   |   男   |   1982 / 9 / 26   |   苏州大学   |   江苏   |   [ 美国 ] 加利福尼亚大学洛杉矶分校   [ 美国 ] University   of 
+ California ，   Los   Angeles     
+ 289   |   李   桢   |   男   |   1976 / 8 / 20   |   苏州大学   |   江苏   |   [ 澳大利亚 ] 卧龙岗 大学   [ 澳大利亚 ] University   of 
+ Wollongong     
+ 290   |   郭春显   |   男   |   1983 / 11 / 4   |   苏州 科技 学院   |   江苏   |   [ 新加坡 ] 新加坡国立大学   [ 新加坡 ] National 
+ University   of   Singapore     
+ 291   |   马   烽   |   男   |   1983 / 8 / 2   |   苏州 系统 医学 研究所   |   江苏   |   [ 美国 ] 加州大学洛杉矶分校   [ 美国 ] University   of 
+ California ，   Los   Angeles     
+ 292   |   高利 增   |   男   |   1978 / 2 / 12   |   扬州 大学   |   江苏   |   [ 美国 ] 宾夕法尼亚大学   [ 美国 ] University   of 
+ Pennsylvania     
+ 293   |   崔   义   |   男   |   1982 / 12 / 5   |   中国科学院 苏州 纳米技术 与 纳米 仿生 研究所   |   江苏   |   [ 德国 ] 马克思 普朗克 学会 弗里茨 哈伯 研究所 
+ [ 德国 ] Fritz   Haber   Institute   of   the   Max   Planck   Society     
+ 294   |   杨 一行   |   男   |   1985 / 2 / 23   |   中国科学院 苏州 纳米技术 与 纳米 仿生 研究所   |   江苏   |   [ 美国 ] NanoPhotonica ， Inc . 
+ [ 美国 ] NanoPhotonica ， Inc .     
+ 295   |   原熙博   |   男   |   1982 / 8 / 16   |   中国矿业大学   |   江苏   |   [ 英国 ] 布里斯托 大学   [ 英国 ] The   University   of 
+ Bristol     
+ 296   |   李福生   |   男   |   1976 / 8 / 19   |   中国矿业大学   |   江苏   |   [ 美国 ] 贝克 休斯 全球 石油 服务公司   [ 美国 ] 荷兰 皇家 壳牌石油公司     
+ 297   |   刘潇 璇   |   女   |   1981 / 3 / 25   |   中国 药科 大学   |   江苏   |   [ 法国 ] 健康 与 医学 研究 中心 马赛 癌症 研究 中心   [ 法国 ] Centre   de 
+ Recherche   en   Canc é rologie   de   Marseille   ( CRCM ) ，   INSERM   UMR   1068     
+ 298   |   库晓珂   |   男   |   1981 / 12 / 27   |   浙江大学   |   浙江   |   [ 挪威 ] 挪威 科技 大学   [ 挪威 ] Norwegian   University 
+ of   Science   and   Technology     
+ 299   |   赖   俊   |   男   |   1986 / 12 / 23   |   浙江大学   |   浙江   |   [ 美国 ] 纽约大学 库朗 研究所   [ 美国 ]   Courant   Institute 
+ of   Mathematical   Sciences     
+ 300   |   叶和溪   |   男   |   1984 / 8 / 10   |   浙江大学   |   浙江   |   [ 加拿大 ] 英 属 哥伦比亚大学   [ 加拿大 ] University   of 
+ British   Columbia

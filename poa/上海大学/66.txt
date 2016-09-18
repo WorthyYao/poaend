@@ -1,0 +1,7 @@
+        **[_尚七网_](http://www.edu777.com/)讯**  据校园记者报道  2016年材料研究学会（Materials Research Society春季会议（2016 MRS Spring Meeting &amp; Exhibit）在美国亚利桑那州凤凰城举行，这是国际上材料科学领域最重要的国际会议之一，本次大会共有63个专题研讨会，吸引了15000多名来自全世界多个国家的材料相关专业领域的专家、学者和学生代表，共同探讨先进材料科学的进展和未来方向。上海大学材料科学与工程学院王文贞同学在此次大会上获得了基于钙钛矿的光伏和光电器件分会场（Symposium EP3:Perovskite-Based Photovoltaics and Optoelectronic Devices）的最佳墙报奖（Best Poster Award）。  
+　　王文贞的墙报题目为“Growth of the CH3NH3PbCl3 Films and Its Application in Visible
+Blind Ultraviolet
+Photodetector”。她在王林军教授和徐闰副教授的指导下，采用混合连续沉积法生长了致密的且结晶度良好的CH3NH3PbCl3薄膜，并首次制备出共面叉指型CH3NH3PbCl3薄膜可见光盲紫外探测器。  
+        该探测器对紫外光非常敏感，在光强为5 mW/cm2的360 nm紫外光照射下，外加电压为4.0V时，响应率为7.56 A/W，紫外光-
+可见光抑制比（R360nm/R500nm）高达两个数量级，且响应速度很快，上升时间为170μs，下降时间为220μs。该研究成果在会议期间引起了众多同行的广泛关注和热烈反响，也因此被组委会评选为最佳墙报。
+

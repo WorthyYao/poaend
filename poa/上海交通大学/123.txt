@@ -1,0 +1,58 @@
+![](http://cache1.bioon.com/fckup/2016/7/pharmon201607101616015815.png)
+
+2016年7月10日/生物谷BIOON/--在一项新的研究中，来自中国上海交通大学、深圳大学和美国伍兹霍尔海洋研究所的研究人员在古生菌（archaea）中发现乙酸化（acetogenesis）过程，这提示着这些很少被人们研究的有机体在海底下产生有机碳中发挥着重要作用。相关研究结果近期发表在_Nature
+Microbiology_期刊上，论文标题为“Genomic and enzymatic evidence for acetogenesis among
+multiple lineages of the archaeal phylum Bathyarchaeota widespread in marine
+sediments”。  
+  
+论文通信作者、上海交通大学生命科技学院教授王风平（Fengping
+Wang）起初并没有寻找古生菌，但是她不能够阻止发现它们。在几年前，王教授当时正在研究海洋沉积物的组成，并且期待它主要是由细菌组成的。相反，她说，“我们持续地检测到古生菌。几乎在我研究的每种样品中，它们再三地出现。”  
+  
+王教授感到困惑。传统上，古生菌被认为是极端微生物，生活在不同寻常的环境中，如温泉或北极地区，因而具有不同寻常的生活方式。尽管这种观点正在发生改变，这是因为越来越多的研究在多样化的栖息地中鉴定出古生菌，但是它们在从加利福尼亚湾收集到的这些海洋沉积物中的丰度还是让王教授感到吃惊。基于此，她想知道它们是否可能发挥着之前并未发现的生态系统功能。  
+  
+在这项新的研究中，王教授和同事们利用宏基因组学技术鉴定出他们的海洋沉积物中的大多数古生菌属于深古菌门（_Bathyarchaeota_），即由王教授和她的同事们在2013年新命名的一个门，该门之前被称作杂色泉古菌（Miscellaneous
+Crenarchaeotic Group, MCG）。通过分析这些古生菌的基因组，他们鉴定出几种序列似乎编码参与碳循环过程---
+包括意料之外的乙酸化，即利用无机碳产生乙酸，这是海洋碳库的生物地球化学循环中的一个关键性步骤---的蛋白。  
+  
+王教授说，“这真地令我们感到吃惊。乙酸化是一种非常重要的过程，特别是在无氧环境中，这是因为乙酸是一种有机碳源，能够给其他有机体提供燃料，或者用于甲烷产生。在此之前，人们认为细菌才是其中的主要参与者。”  
+  
+研究人员迫切想要更多地了解深古菌门在乙酸化中的作用，但是他们在实验室中研究这些微生物时面临着巨大的挑战，这是因为它们生长异常缓慢，而且很难培养。王教授说，因此为了测试深古菌门中的基因序列是否确实是有功能性的，研究人员“开展了一些酶学性质测定实验”。他们克隆出似乎参与乙酸化的多种基因中的一种，并在大肠杆菌中进行表达，然后通过生物化学测定实验证实所产生的这种酶能够在乙酸化过程的一个步骤中发挥催化作用。王教授说，“我们发现它们确实能够执行乙酸化过程”，并且补充道，科学家如今“将不得不重新思考古生菌的作用”。  
+  
+德国杜伊斯堡-埃森大学微生物学家Bettina
+Siebers（未参与这项研究）说，“它真地是一项非常有趣的研究，这是因为它突出说明了古生菌在地球化学循环中的重要作用。它有助我们理解在海洋沉积物中到底发生了什么。”她补充道，下一步将是试图在实验室中培养这些细胞以便研究它们的功能。  
+  
+这样的研究计划已在王教授的实验室中开展，此外，该实验室也在开发原位鉴定古生菌碳循环活性的方法。王教授说，“我们需要证实乙酸化真地在环境中发生，而不只是在实验室中，也不只是在古生菌的基因组中。”（生物谷
+Bioon.com）  
+  
+**本文系生物谷原创编译整理，欢迎转载！点击 [获取授权](http://bioon.bqy.pub/) 。更多资讯请下载[生物谷APP](http://www.bioon.com/m/ "" )。**  
+  
+**Genomic and enzymatic evidence for acetogenesis among multiple lineages of the archaeal phylum Bathyarchaeota widespread in marine sediments**  
+  
+Y. He, M. Li, V. Perumal, X. Feng, J. Fang, J. Xie, S. M. Sievert &amp; F.
+Wang  
+  
+doi:[10.1038/nmicrobiol.2016.35](http://dx.doi.org/10.1038/nmicrobiol.2016.35
+"" )  
+PMC:  
+PMID:  
+  
+Members of the archaeal phylum Bathyarchaeota are widespread and abundant in
+the energy-deficient marine subsurface sediments. However, their life
+strategies have remained largely elusive. Here, we provide genetic evidence
+that some lineages of Bathyarchaeota are acetogens, being capable of
+homoacetogenesis, a metabolism so far restricted to the domain Bacteria.
+Metabolic reconstruction based on genomic bins assembled from the metagenome
+of deep-sea subsurface sediments shows that the metabolism of some lineages of
+Bathyarchaeota is similar to that of bona fide bacterial homoacetogens, by
+having pathways for acetogenesis and for the fermentative utilization of a
+variety of organic substrates. Heterologous expression and activity assay of
+the acetate kinase gene ack from Bathyarchaeota, demonstrate further the
+capability of these Bathyarchaeota to grow as acetogens. The presence and
+expression of bathyarchaeotal genes indicative of active acetogenesis was also
+confirmed in Peru Margin subsurface sediments where Bathyarchaeota are
+abundant. The analyses reveal that this ubiquitous and abundant subsurface
+archaeal group has adopted a versatile life strategy to make a living under
+energy-limiting conditions. These findings further expand the metabolic
+potential of Archaea and argue for a revision of the role of Archaea in the
+carbon cycle of marine sediments.
+

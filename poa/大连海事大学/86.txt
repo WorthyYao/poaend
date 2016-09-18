@@ -1,0 +1,16 @@
+3月19日至21日，英国西敏斯特大学Andrzej Tarczynski博士来[
+](/collegemanage/college201_01.shtml)[大连海事大学](/collegemanage/college201_01.shtml)
+信息科学技术学院短期访问。来访期间，Andrzej Tarczynski博士向全校师生开设了主题为“采样数据的快速一致收敛无混叠傅里叶变换估计（Alias-
+free Fourier Transform Estimators from Sampled Data with Fast Uniform
+Convergence）”的学术讲座。[
+](/collegemanage/college201_01.shtml)[大连海事大学](/collegemanage/college201_01.shtml)
+相关专业的教师、研究生、本科生参加了此次学术讲座。
+
+![](/UploadImage/FckUpImg/201603236014.jpg)
+
+Andrzej Tarczynski博士在这次讲座中主要介绍了无混叠采样数据的快速傅里叶变换估计，在无混叠数字信号处理方面提出了很多建设性意见，对于今后[
+](/collegemanage/college201_01.shtml)[大连海事大学](/collegemanage/college201_01.shtml)
+在数字信号处理上的无混叠研究具有重要意义。
+
+据悉，Tarczynski博士的研究领域集中在信号与系统的理论研究，特别关注先进的数字信号处理系统、控制系统的建模和设计，技术工程和通信系统的优化。近年来他主要关注无混叠数字信号处理系统在通信、仪器仪表和核磁共振领域的实际应用。
+
